@@ -1,10 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:widgets_rn_1074/about_list_tile.dart';
-import 'package:widgets_rn_1074/absorb_pointer.dart';
-import 'package:widgets_rn_1074/alert_dialog.dart';
-import 'package:widgets_rn_1074/every_widgets/about_list_tile.dart';
 
-const Color darkBlue = Color(0xff366598);
+import 'every_widgets/about_list_tile.dart';
+
+const Color darkBlue = Color(0xFF12202F);
 
 void main() {
   runApp(const MyApp());

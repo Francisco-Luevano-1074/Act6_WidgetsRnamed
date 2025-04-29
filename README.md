@@ -2,35 +2,39 @@
 
 # Francisco Luévano
 
+Pantalla inicial:
+- ![image](https://github.com/user-attachments/assets/4786850a-58f7-43fe-a8a5-e871bfb6f687)
+
 Widget 2:
-- ![image](https://github.com/user-attachments/assets/035e8ef0-843e-4abf-a1f8-a308dbd7abef) ![image](https://github.com/user-attachments/assets/ea97dbad-c98a-49eb-acc1-d206249118dd)
+- ![image](https://github.com/user-attachments/assets/8066170c-8c41-408b-b056-203623dc1eac)
 
 Widget 3:
-- ![image](https://github.com/user-attachments/assets/0c7f6c1f-1830-45d5-ad1a-f2eee85e0c85)
+- ![image](https://github.com/user-attachments/assets/3950403c-6860-454e-a877-8a6c03de41a0)
 
 Widget 4:
-- ![image](https://github.com/user-attachments/assets/912d752f-a8e6-40c1-97bf-f572994ea6ef) ![image](https://github.com/user-attachments/assets/c45b81ad-7973-467c-ae07-32b691053cc0)
+- ![image](https://github.com/user-attachments/assets/060d659e-879a-413a-b3cb-d5ec362110b8)
 
 Widget 5:
-- ![image](https://github.com/user-attachments/assets/c878705c-1687-4e3b-9391-65ed7e5bc1f8)
+- ![image](https://github.com/user-attachments/assets/5b6771f5-66fa-4776-895e-102d35c36a1e)
 
 Widget 6:
-- ![image](https://github.com/user-attachments/assets/1606ca70-c577-41f8-9d8c-d08eebbd75e5)
+- ![image](https://github.com/user-attachments/assets/dd1673ab-a077-49a6-8987-341eee8d54c6)
 
 Widget 7:
-- ![image](https://github.com/user-attachments/assets/891b75f7-5097-449e-ad10-cb7974b9c42d)
+- ![image](https://github.com/user-attachments/assets/5337f8e8-2101-4777-a290-5cc86f8f2f7d)
 
 Widget 8:
-- ![image](https://github.com/user-attachments/assets/598c6040-4a4c-4b7f-943f-f61f48a4c3cd) ![image](https://github.com/user-attachments/assets/b56df835-5bc0-49dd-8c66-49e9bbd7b3a6)
+- ![image](https://github.com/user-attachments/assets/15808bd3-107b-418d-a35c-33cfda2f2362)
 
 Widget 9:
-- ![image](https://github.com/user-attachments/assets/7c41d850-8108-4a85-9785-7603800a55c0) ![image](https://github.com/user-attachments/assets/0d054740-b34d-47b1-b37f-1b83c01bfca5)
+- ![image](https://github.com/user-attachments/assets/155985ff-239b-4eea-aeab-ffa54de6cb2e) ![image](https://github.com/user-attachments/assets/9aee391b-d88c-4bea-b5bf-316b56de98fc)
 
 Widget 10:
-- ![image](https://github.com/user-attachments/assets/73469a27-4a44-4112-9ea5-c25591d6a981) ![image](https://github.com/user-attachments/assets/76196650-e131-4df5-bb1a-0b0952dcd0f2)
+- ![image](https://github.com/user-attachments/assets/1c3d9e2e-505c-4211-bc1f-aa5f1f0e25b5)
 
 Widget 11:
-- ![image](https://github.com/user-attachments/assets/af6efa5d-6c3f-4ab4-8e7e-7267458ecbc3) ![image](https://github.com/user-attachments/assets/01e9ff72-04fa-496f-8432-414b4959fda7)
+- ![image](https://github.com/user-attachments/assets/2caeec29-cb66-485e-a64b-baa09ad56145) ![image](https://github.com/user-attachments/assets/657d19cc-51ad-47f5-9446-e07cfe56b1b0)
+
 
 
 
